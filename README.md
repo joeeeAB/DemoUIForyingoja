@@ -1,7 +1,7 @@
-!!! 该存档源地址是https://github.com/yingoja/DemoUI
-本仓库是为了方便我学习和管理自动化框架建立的，克隆请复制上面的地址
-2022-07-05 
-joeeeAB
+* !!! 该存档源地址是https://github.com/yingoja/DemoUI
+* 本仓库是为了方便我学习和管理自动化框架建立的，克隆请复制上面的地址
+* 2022-07-05 
+* joeeeAB
 
 
 ## 设计思路
